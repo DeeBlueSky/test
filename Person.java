@@ -17,4 +17,8 @@ class Person{
 	public toString(){
 		return name + ", " +age;
 	}
+	public void sayHi(){
+		System.out.println("hi");
+	}
+
 }
