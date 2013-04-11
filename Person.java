@@ -13,5 +13,8 @@ class Person{
 	public getAge(){
 		return age;
 	}
+	public void sayHi(){
+		System.out.println("hi");
+	}
 
 }
