@@ -6,6 +6,8 @@ class Person{
 		this.age = age;
 	}
 
-	
+	public getAge(){
+		return age;
+	}
 
 }
