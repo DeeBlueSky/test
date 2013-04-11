@@ -20,5 +20,7 @@ class Person{
 	public void sayHi(){
 		System.out.println("hi");
 	}
-
+	public void anotherMethod(){
+	
+	}
 }
